@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lvl1_idx</key>
+	<dict>
+		<key>west</key>
+		<string>lvl2_idx</string>
+		<key>south</key>
+		<string></string>
+		<key>east</key>
+		<string></string>
+		<key>north</key>
+		<string></string>
+	</dict>
+	<key>lvl2_idx</key>
+	<dict>
+		<key>west</key>
+		<string></string>
+		<key>south</key>
+		<string></string>
+		<key>east</key>
+		<string>lvl1_idx</string>
+		<key>north</key>
+		<string></string>
+	</dict>
+</dict>
+</plist>
